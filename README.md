@@ -1,5 +1,11 @@
 # Swizzler for iOS
 
+Swizzler was built as a tool to help analyze MDM/EMS iOS applications, it has grown to incorporate other features to assist and ease the job of penetration testers and security researchers in the security analysis of any iOS application.
+
+This tool was release along side the BlackHat presentation entitled [**Bad for Enterprise: Attacking BYOD Enterprise Mobile Security Solutions**](https://www.blackhat.com/us-16/briefings.html#bad-for-enterprise-attacking-byod-enterprise-mobile-security-solutions). 
+
+Full Presentation, White Paper and Video Recording can be found at https://www.blackhat.com/us-16/briefings.html#bad-for-enterprise-attacking-byod-enterprise-mobile-security-solutions
+
 Everything here is in a beta stage and stuff maybe unstable.
 
 
@@ -16,7 +22,6 @@ GNU GPLv3
 ### Self Compilation
 
 #### Requirements
-
 * X Code
 * Theos Framework (https://github.com/rpetrich/theos)
 
@@ -26,5 +31,10 @@ GNU GPLv3
 3. `source setup.sh`
 4. make package install
 
+
 ## Usage
 Please refer to the [Usage document](https://github.com/vtky/Swizzler/blob/master/USAGE.md)
+
+
+## Contact
+Create an issue here or tweet me [@vincent_tky](https://twitter.com/vincent_tky)
